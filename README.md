@@ -1,24 +1,16 @@
-# color_generator
+## Установка
+1. Клонирование репозитория:
 
-## Project setup
-```
+```bash
+git clone https://github.com/yato90/color-generatorgit.git
+cd color_generator
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+## Запуск
+1. Запустите сервер разработки:
+
+```bash
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2. Откройте локальный сервер в браузере.
