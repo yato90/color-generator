@@ -2,7 +2,7 @@
 1. Клонирование репозитория:
 
 ```bash
-git clone https://github.com/yato90/color-generatorgit.git
+git clone https://github.com/yato90/color-generator.git
 cd color_generator
 npm install
 ```
